@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=stim19255&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
 <!--
 **qReolq/qReolq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
