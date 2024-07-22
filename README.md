@@ -1,6 +1,6 @@
 <h3 align="center">Java backend developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://leetcode-stats-six.vercel.app/?username=stim19255&theme=dark">
+<img align="right" alt="Coding" width="400" src="https://leetcard.jacoblin.cool/stim19255?ext=heatmap">
 
 <br/>
 
