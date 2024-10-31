@@ -4,7 +4,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **how to breathe**
 
 - 💬 Ask me about **Java , Kotlin, Spring**
 
